@@ -210,4 +210,4 @@ ShareX is provided as a complete free version with all features unlocked and upd
 Unlock your screen capturing potential with ShareX—download it now for free!
 
 ---
-**Last updated:** 2026-11-09 17:59:00 UTC
+**Last updated:** 2026-11-10 01:15:07 UTC
